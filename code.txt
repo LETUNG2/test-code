@@ -1,0 +1,5 @@
+var introduce = {
+ name: 'letung',
+ age: 18,
+ weight: 50,
+};
